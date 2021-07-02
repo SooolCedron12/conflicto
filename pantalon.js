@@ -4,6 +4,7 @@ var pantalon = {
     corto : false    
 }
 
+if (pantalon.talle>34) {
 
 switch (pantalon.corto) {
     case false:
@@ -15,4 +16,10 @@ switch (pantalon.corto) {
         break; 
 }
 
-//console.log(pantalon);
+
+console.log("si es chico");
+
+}
+    
+
+console.log(pantalon);
