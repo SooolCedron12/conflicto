@@ -4,5 +4,11 @@ let pantalon = {
     corto : false
 }
 
+if (pantalon.talle>34) {
+    
+console.log("si es cicho");
 
-console.log("pantalon");
+}
+    
+
+console.log(pantalon);
