@@ -5,8 +5,8 @@ let pantalon = {
 }
 
 if (pantalon.talle>34) {
-    
-console.log("si es cicho");
+
+console.log("si es chico");
 
 }
     
